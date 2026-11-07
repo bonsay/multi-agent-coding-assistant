@@ -41,3 +41,7 @@ It uses Docker automatically when available. Set `SANDBOX=process` to force the 
 
 ## Ideas to extend
 A Reviewer agent node (lint and complexity gate), parallel candidate generation with best-of-n selection, persisted checkpoints so a run can resume after a crash, and multi-file projects built with Maven inside the container.
+
+## License
+
+[MIT](LICENSE)

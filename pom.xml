@@ -10,6 +10,13 @@
     <name>Autonomous Multi-Agent Coding Assistant</name>
     <description>Planner, Coder and Tester agents orchestrated by a LangGraph-style state graph, executing code in a sandbox.</description>
 
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
